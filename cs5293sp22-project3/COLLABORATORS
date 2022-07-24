@@ -1,0 +1,16 @@
+Statology, https://www.statology.org/pandas-add-row-to-dataframe/, How to add pandas row
+GeeksForGeeks, https://www.geeksforgeeks.org/how-to-write-pandas-dataframe-as-tsv-using-python/, Save pandas df as tsv file
+Stackoverflow, https://stackoverflow.com/questions/60166302/filtering-entities-based-on-the-type-person-org-etc-in-spacy, Get filtered list of ents
+Golinuxcloud, https://www.golinuxcloud.com/filter-pandas-dataframe-by-column-value/, Filter pandas to specific column value
+Statology, https://www.statology.org/drop-index-pandas/, Drop index while saving df
+Geeksforgeeks, https://www.geeksforgeeks.org/creating-pandas-dataframe-using-list-of-lists/, Make pandas df from lists
+Stackoverflow, https://stackoverflow.com/questions/29523254/python-remove-stop-words-from-pandas-dataframe, Remove stopwords from pandas per column and also help understanding pandas/lambda in general
+Stackoverflow, https://stackoverflow.com/questions/66338970/cleaning-text-using-nltk, More information about cleaning with nltk on a pandas dataframes
+Statology, https://www.statology.org/pandas-select-rows-based-on-column-values/, Helped clarify how to filter pandas based on column values
+Scikit-learn, https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html, Documentation about MLPClassifier
+Stackoverflow, https://stackoverflow.com/questions/56107259/how-to-save-a-trained-model-by-scikit-learn, Helped determine how to save a sklearn model via pickle
+Tutorialspoint, https://www.tutorialspoint.com/How-to-randomize-the-items-of-a-list-in-Python, Shuffle list
+Anna Widiger, https://gist.github.com/widiger-anna/deefac010da426911381c118a97fc23f, Helped understand how to remove contractions with regex
+Askpython, https://www.askpython.com/python/list/python-list-comprehension, Python syntax
+Thomas Le Menestrel, https://medium.com/towards-entrepreneurship/importing-a-csv-file-from-github-in-a-jupyter-notebook-e2c28e7e74a5, Helped understand how to avoid byte vs str error when downloading tsv file
+Someone from class lecture, Zoom lecture time, Someone during class mentioned splitting data on '\t+' to get exceptions where there was more than one tab separator in the tsv file but I cannot remember who said it and I could not find name looking back over zoom lecture.
